@@ -1,0 +1,65 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@300&display=swap');
+/* font-family: 'Catamaran', sans-serif; */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap');
+/* font-family: 'Roboto', sans-serif; */
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Iso&display=swap');
+/* font-family: 'Rubik Iso', cursive; */
+
+html, body {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+}
+
+body {
+    background: url("https://i.imgur.com/L2gX9V1.jpg");
+    font-family: 'Roboto', sans-serif;
+}
+
+.logo {
+    font-family: 'Rubik Iso', cursive;
+    background-color: #ffffff;
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px;
+}
+
+.header {
+    display: table;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    background-color: #1d1d1d;
+}
+
+.menu_item {
+    text-align: center;
+    font-size: 18px;
+    color: #ffffff;
+    display: inline-flex;
+    padding: 0;
+    width: 100px;
+    justify-content: center;
+}
+
+.menu_item:hover {
+    background-color: #707070;
+    cursor: pointer;
+    color: #000000;
+}
+
+.menu_link {
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 18px;
+    width: 100%;
+    color: #ffffff;
+}
+
+.menu_link:hover {
+    color: #000000;
+}

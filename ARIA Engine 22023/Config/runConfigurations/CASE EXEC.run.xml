@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="CASE EXEC" type="NodeJSConfigurationType" path-to-js-file="index.js" working-dir="$PROJECT_DIR$">
+    <envs>
+      <env name="TOKEN" value="OTMwNzQ4NzU4NTg3NzQwMTgw.Yd6ZVA.SnYgm4QweXcyO64JhIi_ZIoyxTg" />
+    </envs>
+    <method v="2" />
+  </configuration>
+</component>

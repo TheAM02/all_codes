@@ -1,0 +1,18 @@
+import {MessageEmbed} from 'discord.js';
+import client from '../../Main/client.js'
+
+
+function main (msg, args, obj) {
+
+	return new MessageEmbed()
+	.setTitle(obj.title)
+	.setColor('#3449eb')
+	.setAuthor({
+		name: `${client.user.username} utility`,
+		iconURL: client.user.displayAvatarURL()
+	})
+	.setImage(obj.image)
+	
+}
+
+export default main

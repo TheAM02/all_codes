@@ -1,0 +1,26 @@
+{
+  "name": "ARIA",
+  "version": "1.10.6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node": "^16.13.0"
+  },
+  "dependencies": {
+    "@replit/database": "^2.0.1",
+    "colors": "^1.4.0",
+    "discord.js": "^13.6.0",
+    "express": "^4.17.2",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^3.1.1",
+    "valid-url": "^1.0.9"
+  },
+  "description": "",
+  "type": "module"
+}

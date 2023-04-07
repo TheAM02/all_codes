@@ -1,0 +1,2 @@
+import database from '@replit/database'
+export default new database('https://kv.replit.com/v0/eyJhbGciOiJIUzUxMiIsImlzcyI6ImNvbm1hbiIsImtpZCI6InByb2Q6MSIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJjb25tYW4iLCJleHAiOjE2NDA2MjkxOTgsImlhdCI6MTY0MDUxNzU5OCwiZGF0YWJhc2VfaWQiOiI5NmVkZDNmNi00NjY0LTQ1MzYtYjA3OS00MjRkODUyZGFhMGYifQ.5IfB-dSYtvM5y0E6VdO-V9yUsPiURMOVAn-e0T4eZfetFriDvIrKfDUDnktpvLbHlswq4PTgwfskIMTwJsuy9g')

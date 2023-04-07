@@ -1,0 +1,4 @@
+import Database from '@replit/database';
+
+const db = new Database('https://kv.replit.com/v0/eyJhbGciOiJIUzUxMiIsImlzcyI6ImNvbm1hbiIsImtpZCI6InByb2Q6MSIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJjb25tYW4iLCJleHAiOjE2NzA4NTk1NjcsImlhdCI6MTY3MDc0Nzk2NywiZGF0YWJhc2VfaWQiOiJhOGQ0ZTdmOS1mMDU4LTQ2OGQtYmIzMi1kNWYyMWZlYmJhNjMiLCJ1c2VyIjoiVGhlQU0wMSIsInNsdWciOiJzdXNzeS1iYWthIn0.Z36CwlO4Pe4cpP2FqBllxcX2koS26G21wtstfjGPBinOvcZTN6u-6cSsqb2dQl4x6BlhFxLP_4WT-t4HV-HiRQ')
+export default db

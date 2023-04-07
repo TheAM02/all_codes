@@ -1,0 +1,9 @@
+{
+    "editor.cursorBlinking": "smooth",
+    "editor.fontSize": 17,
+    "files.autoSave": "onWindowChange",
+    "workbench.tree.expandMode": "doubleClick",
+    "workbench.tree.indent": 12,
+    "workbench.view.alwaysShowHeaderActions": true,
+    "workbench.colorTheme": "Monokai"
+}

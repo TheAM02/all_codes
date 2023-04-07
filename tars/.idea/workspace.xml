@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="01dc342a-ca92-4dcd-9479-dbd508240ace" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IxWVCEo1BavfJmG9z642My0EXj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="16.13.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="16.18.9" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Node.js.Commands">
+    <configuration name="Commands" type="NodeJSConfigurationType" path-to-node="node" node-parameters="--trace-warnings" path-to-js-file="Main/reg-commands.js" working-dir="$PROJECT_DIR$">
+      <envs>
+        <env name="TOKEN" value="OTA2NTQ5NjM5MTMyNjQzMzM5.GYDGX3.jUkaPJRfy3HvayIszjAzZdZMP71nKygI5ejTs4" />
+      </envs>
+      <method v="2" />
+    </configuration>
+    <configuration name="TARS" type="NodeJSConfigurationType" node-parameters="--trace-warnings" path-to-js-file="index.js" working-dir="$PROJECT_DIR$">
+      <envs>
+        <env name="BOT_TOKEN" value="OTA2NTQ5NjM5MTMyNjQzMzM5.GYDGX3.jUkaPJRfy3HvayIszjAzZdZMP71nKygI5ejTs4" />
+        <env name="OD_APP_ID" value="ebd93dc4" />
+        <env name="OD_APP_KEY" value="d7a471c85efa5ee4c438f4b803f251d8" />
+      </envs>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.TARS" />
+      <item itemvalue="Node.js.Commands" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01dc342a-ca92-4dcd-9479-dbd508240ace" name="Changes" comment="" />
+      <created>1671123736024</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671123736024</updated>
+      <workItem from="1671123737339" duration="6046000" />
+      <workItem from="1671131088444" duration="205000" />
+      <workItem from="1676811289105" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
